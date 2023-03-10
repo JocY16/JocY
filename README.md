@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm JocY</h1>
 <h3 align="center">Learning LUA, HTML, JavaScript</h3>
 
+- Working at [J&L Mapper Team](https://discord.gg/5cwsFYvT5X)
+
+- 📫 How to reach me **jocydev**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/b9ywMnXGcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/b9ywMnXGcx" height="30" width="40" /></a>
