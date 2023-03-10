@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JocY</h1>
-<h3 align="center">Hobby Programmer,</h3>
+<h3 align="center"></h3>
 
 - 🔨 Working at [J&L Mapper Team](https://discord.gg/5cwsFYvT5X)
 
