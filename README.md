@@ -3,7 +3,7 @@
 
 - Working at [J&L Mapper Team](https://discord.gg/5cwsFYvT5X)
 
-- 📫 How to reach me **jocydev**
+- 📫 How to reach me **JocY#8377 on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
