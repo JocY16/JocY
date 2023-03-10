@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm JocY</h1>
-<h3 align="center">Learning LUA, HTML, JavaScript</h3>
+<h3 align="center">Hobby Programmer,</h3>
 
-- Working at [J&L Mapper Team](https://discord.gg/5cwsFYvT5X)
+- 🔨 Working at [J&L Mapper Team](https://discord.gg/5cwsFYvT5X)
 
-- 📫 Contact: **JocY#8377 on Discord**
+- 🌱 I’m currently learning **LUA, HTML, JavaScript, CSS**
+
+- 📫 Contact **JocY#8377 on Discord**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
